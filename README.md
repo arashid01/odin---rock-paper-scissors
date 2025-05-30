@@ -4,7 +4,7 @@ This is a simple Rock Paper Scissors game I built using HTML and JavaScript. It'
 
 The game plays in the browser — first to 5 points wins!
 
-🕹️ **[Play the game here](https://arashid01.github.io/odin---rock-paper-scissors/)**
+🕹️ **[Play the game here](https://arashid01.github.io/odin-rockPaperScissors/)**
 
 ---
 
